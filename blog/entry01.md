@@ -21,7 +21,8 @@ I am apart of a lot of classes that give a lot of homework so I must find a way 
 
 All the research I've done into my subject has allowed me to really learn about using google to find the things I need to look for, I would have probably just searched the term "mental health" and researched that for a little while but in class we learned that it would be a lot more beneficial if we searched for what we are looking for specifically. We learned to use terms like "technology" and "computer science" in order to find more specific information for what we're looking for.
 
-###
+### Summary
+I am excited to create a website for technology when it comes to mental health because it is something that is very important and is something that everyoe can use to benefit themselves!
 
 [Next](entry02.md)
 
