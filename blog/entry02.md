@@ -1,4 +1,4 @@
-# Entry 2
+# Entry 2 software and hardware ( already existing technology to help mental health)
 ##### X/X/XX
 
 Text
